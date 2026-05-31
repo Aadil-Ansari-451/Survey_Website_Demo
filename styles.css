@@ -409,7 +409,7 @@ body[data-hero="editorial"] .hero--split { display: none; }
 .mt-cta { margin-top: clamp(40px, 5vw, 64px); }
 .divider { height: 1px; background: var(--line); border: 0; }
 .page-head { padding-block: clamp(56px, 8vw, 120px) clamp(28px, 3vw, 40px); }
-.page-head__inner { display: flex; flex-direction: column; gap: 22px; max-width: 24ch; }
+.page-head__inner { display: flex; flex-direction: column; gap: 22px; }
 .breadcrumb { font-size: 0.82rem; letter-spacing: 0.06em; color: var(--ink-faint); text-transform: uppercase; }
 
 .map-frame { width: 100%; aspect-ratio: 16 / 10; border: 0; border-radius: var(--r-soft); filter: grayscale(100%) contrast(1.05); background: var(--bg-alt); }
